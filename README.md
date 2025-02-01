@@ -1,7 +1,7 @@
 # ollama-api
 
 
-## Store mode in external hardisk
+## Store model in external hardisk
 
 <https://github.com/ollama/ollama/issues/2322>
 
